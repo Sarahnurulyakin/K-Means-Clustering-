@@ -1,6 +1,6 @@
 # Tugas K-Means Clustering
 
-Nama            : Sarah Nurul Yakin 
+Nama            : Sarah Nurul Yakin  
 Mata Kuliah     : Machine Learning  
 Topik           : K-Means Clustering
 

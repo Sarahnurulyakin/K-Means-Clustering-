@@ -239,7 +239,7 @@ Tahapan yang dilakukan pada Tugas 2:
 Visualisasi dilakukan menggunakan scatter plot berdasarkan:
 
 - income
-- gdpp
+- gdp
 
 Keterangan visualisasi:
 
@@ -305,7 +305,7 @@ jupyter notebook
 
 Berdasarkan percobaan yang telah dilakukan, algoritma K-Means Clustering berhasil diterapkan pada dua dataset yang berbeda, yaitu GPS Trajectories dan Country Data.
 
-Pada Tugas 1, proses clustering dilakukan menggunakan dataset GPS Trajectories dengan fitur distance dan speed. Hasil clustering menunjukkan bahwa data perjalanan dapat dikelompokkan berdasarkan pola jarak dan kecepatan perjalanan. Visualisasi cluster memperlihatkan bahwa setiap kelompok data memiliki pola yang berbeda, sedangkan titik centroid menunjukkan pusat dari masing-masing cluster.
+Pada Tugas 1, proses clustering dilakukan menggunakan dataset GPS Trajectories dengan fitur id_android dan speed. Hasil clustering menunjukkan bahwa data perjalanan dapat dikelompokkan berdasarkan pengguna Android dan kecepatan perjalanan. Visualisasi cluster memperlihatkan bahwa setiap kelompok data memiliki pola yang berbeda, sedangkan titik centroid menunjukkan pusat dari masing-masing cluster.
 
 Pada Tugas 2, algoritma K-Means diterapkan pada dataset Country Data untuk mengelompokkan negara berdasarkan kondisi ekonomi dan sosial seperti income dan GDP per kapita. Hasil clustering menunjukkan bahwa negara-negara dengan kondisi yang serupa dapat dikelompokkan ke dalam cluster yang sama sehingga mempermudah proses analisis data.
 

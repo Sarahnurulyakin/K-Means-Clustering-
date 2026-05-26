@@ -141,6 +141,7 @@ Tahapan yang dilakukan pada Tugas 1:
 <p align="center">
   <img src="hasil/visualisasi_cluster_gps.png" width="600">
 </p>
+
 ## Hasil Visualisasi Tugas 1
 
 Visualisasi dilakukan menggunakan scatter plot untuk memperlihatkan persebaran cluster berdasarkan fitur distance dan speed.
@@ -232,6 +233,7 @@ Tahapan yang dilakukan pada Tugas 2:
 <p align="center">
   <img src="hasil/visualisasi_cluster_country.png" width="600">
 </p>
+
 ## Hasil Visualisasi Tugas 2
 
 Visualisasi dilakukan menggunakan scatter plot berdasarkan:
